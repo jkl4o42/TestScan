@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test Scan</string>
+    <string name="scan">Scan</string>
+    <string name="problems">Problems</string>
+    <string name="device_scan">Device Scan</string>
+    <string name="device_scan_description">Show you all info about phone</string>
+    <string name="check_for_viruses">Check for Viruses</string>
+    <string name="check">Check</string>
+    <string name="check_for_viruses_description">Show you all info about phone</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="device_info">Device info</string>
+    <string name="no_problems">No problems</string>
+</resources>

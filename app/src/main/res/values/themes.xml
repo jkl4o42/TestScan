@@ -1,0 +1,17 @@
+<resources>
+    <style name="Base.Theme.TestScan" parent="Theme.MaterialComponents.NoActionBar">
+    </style>
+
+    <style name="Theme.TestScan" parent="Base.Theme.TestScan" />
+
+    <style name="LatoBold">
+        <item name="fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">#1C1C1C</item>
+    </style>
+
+    <style name="LatoRegular">
+        <item name="fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">#1C1C1C</item>
+    </style>
+
+</resources>
